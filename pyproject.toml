@@ -1,0 +1,12 @@
+[project]
+name = "tsuki"
+version = "0.0.1"
+description = "tsuki is a minimal safe communication software when you need actual privacy"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  'bottle',
+  'websockets',
+  'cbor',
+  'loguru',
+]
