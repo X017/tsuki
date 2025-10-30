@@ -9,4 +9,6 @@ dependencies = [
   'websockets',
   'cbor',
   'loguru',
+  'cryptography',
+  'pynacl'
 ]
