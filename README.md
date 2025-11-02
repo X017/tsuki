@@ -1,4 +1,4 @@
-# 🌙 Tsuki
+# Tsuki
 
 ## Overview
 Tsuki is a messaging software built with **privacy** and **simplicity** in mind.  
