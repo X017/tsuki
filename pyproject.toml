@@ -10,5 +10,6 @@ dependencies = [
   'cbor',
   'loguru',
   'cryptography',
-  'pynacl'
+  'pynacl',
+  "watchdog>=6.0.0",
 ]
